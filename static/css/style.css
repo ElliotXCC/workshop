@@ -13081,3 +13081,13 @@ a.purchase-btn {
 
 /*# sourceMappingURL=../maps/style.css.map */
 
+
+
+
+
+table th,table td{
+  border: 1px solid #ccc;
+  justify-content: center;
+  text-align: center;
+}
+
